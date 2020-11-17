@@ -4,9 +4,6 @@
 SimulEval is a general evaluation framework for simultanteuous translation on text and speech.
 
 ## Installation
-(Will modify after public)
-### Requirement
-* python >= 3.7.0
 ```
 git clone git@github.com:fairinternal/SimulEval.git
 cd SimulEval
@@ -22,7 +19,6 @@ simuleval \
   --source data/src.txt \
   --target data/tgt.txt \
 ```
-(TODO) More tutorial coming.
 
 # License
 
